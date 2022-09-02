@@ -1,7 +1,7 @@
 # opt-rkhs-bounds
 
-![alt text](https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/pic_A.png)
-![alt text](https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/pic_B.png)
+<img src="https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/pic_A.png" width="100" height="auto">
+<img src="https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/pic_B.png" width="100" height="auto">
 
 This repo contains the supplementary material for the paper
 

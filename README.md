@@ -1,8 +1,5 @@
 # opt-rkhs-bounds
 
-<img src="https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/repo_pic_A.png" width="500" height="auto">
-<img src="https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/repo_pic_B.png" width="500" height="auto">
-
 This repo contains the supplementary material for the paper
 
 ```
@@ -19,6 +16,9 @@ This repo contains the supplementary material for the paper
 In the above work, we propose a novel uncertainty quantification technique that bounds the out-of-sample values of an unknown real-valued function. The method is developed in the a kernel setting, and can account for finite measurement noise. 
 
 We showcase how the theory can be used through a number of examples, including: a function bouding task, a data-driven optimization problem with unknown constraints, and the safety certification of a sequence of control actions for a dynamical system.
+
+<img src="https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/repo_pic_A.png" width="650" height="auto">
+<img src="https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/repo_pic_B.png" width="650" height="auto">
 
 ## MATLAB Dependencies 
 

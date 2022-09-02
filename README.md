@@ -1,6 +1,9 @@
 # opt-rkhs-bounds
 
-This code is the supplementary material for the paper
+![alt text](https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/pic_A.png)
+![alt text](https://github.com/PREDICT-EPFL/opt-rkhs-bounds/blob/main/pics/pic_B.png)
+
+This repo contains the supplementary material for the paper
 
 ```
 @article{scharnhorst2021robust,
